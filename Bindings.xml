@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="QUICKHEAL2" header="QUICKHEAL2">
+		QuickHeal:ShowOptions();
+	</Binding>
+</Bindings>
