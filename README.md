@@ -6,9 +6,9 @@ Click the file and then "download raw file" (top right)
 
 Find the addon directory for classic TBC..
 
-<wow>\_anniversary_\Interface\AddOns\QuickHeal
+[wow]\_anniversary_\Interface\AddOns\QuickHeal
 
-Then rename the file in there to QuickHeal.lua -> QuickHeal.lus.old
+Then rename the file in there to QuickHeal.lua -> QuickHeal.lua.old
 
 Copy the downloaded version into that folder.
 
@@ -18,4 +18,4 @@ OR
 
 You could just download the whole thing and put it in this folder
 
-<wow>\_anniversary_\Interface\AddOns\QuickHeal
+[wow]\_anniversary_\Interface\AddOns\QuickHeal
